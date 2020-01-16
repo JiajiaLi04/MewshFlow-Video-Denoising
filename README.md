@@ -1,6 +1,6 @@
-# MeshFlow Video Denoising
+MeshFlow Video Denoising
 ===============
-# Image and Video Processing Lab
+### Image and Video Processing Lab
 
 - Built by Jiajia Li from University of Electrical Science and Technology of China (UESTC), now a graduate student at Michigan State University.
 
