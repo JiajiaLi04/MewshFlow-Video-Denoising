@@ -27,7 +27,7 @@ For Windows users, using `Cmakelists.txt` as the cmakelist. (Remember to change 
 For Linux users, using `Cmakelists_Linux.txt` as the cmakelist.<br><br>
 
 ## Citation
-If you find this useful in your research, please cite our paper "Meshflow Video Denoising" ([PDF](https://ieeexplore.ieee.org/document/8296826):
+If you find this useful in your research, please cite our paper "Meshflow Video Denoising" ([PDF](https://ieeexplore.ieee.org/document/8296826)):
 ~~~
 @inproceedings{ren2017meshflow,
   title={Meshflow video denoising},
