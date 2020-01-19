@@ -12,19 +12,6 @@ The meshflow is a sparse motion field. It is used to estimate motions between ne
 
 Project website can be found at [here](http://www.liushuaicheng.org/ICIP/2017/index.html).
 
-Usage
------
-1. Create a new folder `build`<br>
-2. Inside the folder, using the code below for cmake to build the project files:<br>
-```bash
-cmake DCMAKE_BUILD_TYPE=Release ..
-```
-3. Move the test video into this new folder and run this project.<br><br>
-
-For `Visual Studio` users, when run the project file, you should change the `single startup project` option in the solution property into the correct one (not the `ALLBUILD.EXE`).<br>
-
-For Windows users, using `Cmakelists.txt` as the cmakelist. (Remember to change the path for the OpenCV build folder.)<br>
-For Linux users, using `Cmakelists_Linux.txt` as the cmakelist.<br><br>
 
 ## Citation
 If you find this useful in your research, please cite our paper "Meshflow Video Denoising" ([PDF](https://ieeexplore.ieee.org/document/8296826)):
